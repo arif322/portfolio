@@ -1,0 +1,22 @@
+body {
+    font-family: 'Akaya Kanadaka', cursive;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.name-highlight {
+    color: rgb(30, 105, 216);
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 2%;
+}
+
+.half-width img {
+    width: 80%;
+}
